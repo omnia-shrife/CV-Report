@@ -86,10 +86,11 @@ img{
 @media screen and (max-width: 1000px) {
 
     .child1{
-        width: 50%;
+        width: 60%;
     }
     .child2{
-        width: 50%;
+        width: 4
+            0%;
     }
     .c4{
         font-size: medium;
